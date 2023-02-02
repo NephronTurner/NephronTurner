@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NephronTurner
+- 👋 Hi, I’m Mike (@NephronTurner)
 - 👀 I’m interested in Nephrology and Human Genetics.
 - 🌱 I’m currently learning python, bash and R.
 - 📫 How to reach me: find me on twitter -at- NephronTurner
